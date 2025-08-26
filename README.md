@@ -1,8 +1,7 @@
-<h1 align="center">Suivi de Dépenses</h1>  
-<h2 style="font-size: 500px;">💰 </h2>
+<h1 align="center">💰 Suivi de Dépenses</h1>  
 <div align="center">  
-    
-</div>  
+  <h2 style="font-size: 50px;">👜</h2>  
+</div>
 
 # Présentation du projet
 
