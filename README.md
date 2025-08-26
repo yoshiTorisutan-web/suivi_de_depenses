@@ -1,6 +1,6 @@
 <h1 align="center">💰 Suivi de Dépenses</h1>  
 
-# Présentation du projet
+## Présentation du projet
 
 Suivi de Dépenses est une application web interactive développée en HTML, TailwindCSS et JavaScript.
 
@@ -10,7 +10,7 @@ Le projet met en valeur la manipulation du DOM, l’utilisation du LocalStorage,
 
 C’est un excellent exemple de projet front-end combinant design moderne, dark mode, gestion des données et visualisation interactive.
 
-# Fonctionnalités
+## Fonctionnalités
 - Ajout de transactions (description, montant, type et catégorie).
 - Calcul automatique du solde, des revenus et des dépenses.
 - Édition ✏️ et suppression ❌ de transactions.
@@ -22,24 +22,24 @@ C’est un excellent exemple de projet front-end combinant design moderne, dark 
 - 📈 Histogramme : revenus et dépenses par mois.
 - Persistance des données grâce au LocalStorage.
 
-# Réalisé avec :
+## Réalisé avec :
 - HTML5
 - TailwindCSS pour le design responsive et moderne
 - JavaScript Vanilla pour la gestion des transactions et des filtres
 - Chart.js pour les graphiques
 - LocalStorage pour stocker les données en local
 
-# Installation & utilisation
+## Installation & utilisation
 - Cloner le projet ou télécharger les fichiers.
 - Ouvrir le fichier index.html dans un navigateur web moderne.
 - Ajouter vos transactions (revenus/dépenses) pour suivre automatiquement votre solde.
 - Exporter vos données si nécessaire (CSV ou JSON).
 - Personnaliser les catégories, couleurs et graphiques si besoin.
 
-# Auteur
+## Auteur
 
 Torisutan Yoshi – Créateur du projet
 
-# Licence
+## Licence
 
 Projet open-source – utilisation libre à des fins personnelles ou éducatives.
